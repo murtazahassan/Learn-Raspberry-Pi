@@ -47,7 +47,3 @@ while True:
     motor1.stop(5)
     '''
     
-   
-×
-Drag and Drop
-The image will be downloaded
